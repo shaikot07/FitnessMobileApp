@@ -76,6 +76,8 @@ export default function Index() {
               </Link>
             </View>
           ))}
+          {/* try to make new component with raw  */}
+          <View className="flex-row justify-center h-10 w-full bg-pink-500"></View>
         </ScrollView>
       </View>
     </ImageBackground>
