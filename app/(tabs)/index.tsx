@@ -6,7 +6,6 @@ import {
   Text,
   View,
 } from "react-native";
-
 export default function Index() {
   const workouts = [
     {
@@ -40,10 +39,7 @@ export default function Index() {
   ];
   return (
     <ImageBackground
-      source={{
-        uri: "https://images.unsplash.com/photo-1599058917215-d0a45b08fda9?auto=format&fit=crop&w=800&q=80",
-      }}
-      className="flex-1"
+      source={require("@/assets/images/bgGym.jpg")}
       resizeMode="cover"
     >
       <View className="flex-1 bg-black bg-opacity-60">
