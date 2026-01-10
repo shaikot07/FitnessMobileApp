@@ -7,7 +7,7 @@ export default function Contact() {
       <View className="flex-1 px-6 justify-center">
         {/* Header */}
         <View className="items-center mb-8">
-          <Text className="text-4xl font-extrabold text-purple-600 dark:text-purple-400">
+          <Text className="text-4xl font-extrabold text-red-600 dark:text-red-400">
             Contact Us
           </Text>
           <Text className="text-gray-500 dark:text-gray-400 mt-2 text-center">
@@ -40,7 +40,7 @@ export default function Contact() {
         </View>
 
         {/* CTA */}
-        <Pressable className="mt-8 bg-purple-600 py-4 rounded-xl items-center">
+        <Pressable className="mt-8 bg-red-600 py-4 rounded-xl items-center">
           <Text className="text-white text-lg font-bold">Send Message</Text>
         </Pressable>
       </View>
