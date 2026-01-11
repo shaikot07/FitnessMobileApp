@@ -14,10 +14,6 @@ export default function Index() {
           Start your fitness journey with us. Train hard, stay consistent, and
           achieve your goals step by step.
         </Text>
-        <Text className="text-center text-gray-200 text-base mb-6">
-          Start your fitness journey with us. Train hard, stay consistent, and
-          achieve your goals step by step.
-        </Text>
 
         {/* Button */}
         <Pressable className="bg-red-600 px-8 py-3 rounded-full">
