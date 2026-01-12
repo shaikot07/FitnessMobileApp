@@ -87,7 +87,7 @@ export default function GymCard() {
               <Link href={`/workout/${workout.id}`} asChild>
                 <Pressable className="bg-black py-3 rounded-xl items-center">
                   <Text className="text-red-600 font-bold text-lg">
-                    Start Workout
+                    Start Workout to day
                   </Text>
                 </Pressable>
               </Link>
