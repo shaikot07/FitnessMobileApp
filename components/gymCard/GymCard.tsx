@@ -53,7 +53,8 @@ export default function GymCard() {
     {
       id: 8,
       title: "Lower Body Power",
-      description: "Build powerful legs and glutes with lower-body exercises.",
+      description:
+        "Build powerful legs and glutes with lower-body exercises. Build powerful legs and glutes with lower-body exercises.",
       bgColor: "bg-red-600",
     },
   ];
