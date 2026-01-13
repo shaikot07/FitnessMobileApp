@@ -20,7 +20,7 @@ export default function Contact() {
           <View className="mb-4">
             <Text className="text-gray-400 text-sm">Email</Text>
             <Text className="text-lg font-semibold text-gray-800 dark:text-white">
-              shaikot@gmail.com
+              mrshaikot01@gmail.com
             </Text>
           </View>
 
